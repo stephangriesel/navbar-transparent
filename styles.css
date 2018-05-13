@@ -51,3 +51,14 @@ li a:hover {
     background: rgba(255,255,255,0.5);
     color:#000;
 }
+
+
+@media (max-width: 880px) {
+    ul {
+        background: none;
+    }
+
+    li {
+        width:100%;
+    }
+}
